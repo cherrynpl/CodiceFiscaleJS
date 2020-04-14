@@ -29,7 +29,6 @@
     "fix": "standard --fix",
     "standard": "standard"
   },
-
   "license": "MIT",
   "standard": {
     "ignore": [

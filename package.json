@@ -5,7 +5,7 @@
   "main": "dist/codice.fiscale.commonjs2.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/GiacomoCherry/CodiceFiscaleJS"
+    "url": "git://github.com/cherrynpl/CodiceFiscaleJS"
   },
   "directories": {
     "test": "tests"

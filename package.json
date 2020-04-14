@@ -1,11 +1,11 @@
 {
-  "name": "codice-fiscale-js",
-  "version": "2.2.4",
+  "name": "@cherrynpl/codice-fiscale-js",
+  "version": "1.0.0",
   "description": "The Italian Tax Code Library for Javascript and Typescript",
   "main": "dist/codice.fiscale.commonjs2.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/lucavandro/CodiceFiscaleJS.git"
+    "url": "git://github.com/GiacomoCherry/CodiceFiscaleJS"
   },
   "directories": {
     "test": "tests"
@@ -29,12 +29,7 @@
     "fix": "standard --fix",
     "standard": "standard"
   },
-  "author": "Luca Vandro <lucavandro@gmail.com>",
-  "contributors": [
-    "Walter Barbagallo <brb.walter@gmail.com>",
-    "Marco Pesani <marco.pesani@gmail.com>",
-    "Arsenio Siani <arsenio.siani@gmail.com>"
-  ],
+
   "license": "MIT",
   "standard": {
     "ignore": [

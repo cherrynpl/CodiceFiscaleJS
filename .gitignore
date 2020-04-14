@@ -28,6 +28,14 @@ node_modules
 
 # Optional npm cache directory
 .npm
+.npmrc
+
+# don't push builded source
+dist
+
+#
+.idea
+
 
 # Optional REPL history
 .node_repl_history
